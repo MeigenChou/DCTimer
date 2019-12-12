@@ -1,0 +1,59 @@
+h1 {
+	font-size: 1.5em;
+}
+.content {
+	text-align: center;
+	width: 100%
+}
+
+.block1 {
+	background: #f7f7f7;
+	padding: 1em 1.5em 3em 1.5em;
+}
+
+.block2 {
+	background: #e9e9e9;
+	padding: 1em 1.5em 3em 1.5em;
+}
+
+img.pic {
+	width: 100%;
+	max-width: 400px;
+}
+
+img.icon {
+	height: 30px;
+	vertical-align: -0.5em;
+	margin-right: 0.4em;
+}
+
+img.store {
+	width: 140px;
+	margin-top: 5px;
+}
+p.small {
+	font-size: 0.85em;
+}
+
+table {
+	margin-top: 2em;
+	border-collapse:collapse;
+}
+
+table tr td {
+	padding: 5px;
+}
+
+footer {
+	padding: 40px 0;
+	text-align: center;
+}
+
+footer .link {
+	font-size: 0.9em;
+	margin-bottom: 20px;
+}
+
+footer p {
+	font-size: 0.8em;
+}
