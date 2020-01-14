@@ -1,4 +1,5 @@
-36
-1.1.8
+37
+1.1.9
 1. Bug fixed
-2. Support session sorting
+2. Added Pyraminx L4E scramble
+3. Added 2x2x2 face solver
