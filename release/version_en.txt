@@ -1,7 +1,4 @@
-39
-1.2
-1. Added 2x2 no bar scramble
-2. Prompt when deleting results
-3. WCA inspection is only available for non-blindfold scrambles
-4. Added some website links
-5. Added daily statistics
+40
+1.2.1
+1. Bug fixed
+2. Support scramble view for result details
