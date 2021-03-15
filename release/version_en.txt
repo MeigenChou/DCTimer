@@ -1,4 +1,4 @@
-40
-1.2.1
-1. Bug fixed
-2. Support scramble view for result details
+41
+1.2.2
+1. Support Stackmat timer
+2. Bug fixed
