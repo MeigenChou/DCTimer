@@ -1,4 +1,4 @@
-41
-1.2.2
-1. Support Stackmat timer
-2. Bug fixed
+42
+1.2.3
+1. Support dark mode
+2. Added 3x3x3 for noobs scramble and Skewb L2L scramble
